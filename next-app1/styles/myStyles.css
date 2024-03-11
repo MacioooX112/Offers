@@ -1,0 +1,14 @@
+.mobileView{
+    display: flex;
+}
+.desktopView{
+    display: none;
+}
+@media (min-width: 640px) {
+    .mobileView{
+        display: none;
+    }
+    .desktopView{
+        display: flex;
+    }
+}

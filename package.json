@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "bcryptjs-react": "^2.4.6",
+    "cookie": "^0.6.0",
+    "cors": "^2.8.5",
+    "js-cookie": "^3.0.5",
+    "jsonwebtoken": "^9.0.2",
+    "net": "^1.0.2",
+    "nodemailer": "^6.9.11"
+  },
+  "browser": {
+    "fs": false,
+    "os": false,
+    "path": false,
+    "tls": false,
+    "net": false
+  }
+}
